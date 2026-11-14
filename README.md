@@ -29,7 +29,7 @@ For HukukBot I first compared four approaches on Qwen2.5-32B-Instruct (RAG, two 
 ## Published tools
 
 - [**Easy Code Cleaner**](https://marketplace.visualstudio.com/items?itemName=EmirhanArslan.easy-code-cleaner) (Visual Studio Marketplace, 180+ installs): a VS Code extension that removes comments, emojis, blank lines and debug statements across a workspace, and shows code statistics for the project.
-- [**Editor Terminal for Unity**](https://assetstore.unity.com/packages/package/382850) (Unity Asset Store): a real interactive PowerShell or cmd session inside the Unity Editor, built on the Windows ConPTY API. A small native helper running outside Unity's job object keeps the shell alive across script recompiles. Published under T-Rage Studios.
+- [**Editor Terminal for Unity**](https://assetstore.unity.com/packages/package/382850) (Unity Asset Store): I first built it to run Claude Code without leaving the Unity Editor, then published it as a general-purpose terminal. It runs a real interactive PowerShell or cmd session inside the Editor, built on the Windows ConPTY API. A small native helper running outside Unity's job object keeps the shell alive across script recompiles. Published under T-Rage Studios.
 
 ## Experience
 
