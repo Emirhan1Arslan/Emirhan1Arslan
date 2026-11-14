@@ -26,6 +26,11 @@ For HukukBot I first compared four approaches on Qwen2.5-32B-Instruct (RAG, two 
 - [**online_clipboard**](https://github.com/Emirhan1Arslan/online_clipboard): clipboard sync between devices with Flutter and Firebase, live on the [web](https://onlineclipboard.bbclub.space) and [Google Play](https://play.google.com/store/apps/details?id=com.bbclub.onlineclipboard).
 - [**Hidden Pairs**](https://hiddenpairs.tragestudios.com): a Unity memory game that runs in the browser (WebGL).
 
+## Published tools
+
+- [**Easy Code Cleaner**](https://marketplace.visualstudio.com/items?itemName=EmirhanArslan.easy-code-cleaner) (Visual Studio Marketplace, 180+ installs): a VS Code extension that removes comments, emojis, blank lines and debug statements across a workspace, and shows code statistics for the project.
+- [**Editor Terminal for Unity**](https://assetstore.unity.com/packages/package/382850) (Unity Asset Store): a terminal inside the Unity Editor on Windows, published under T-Rage Studios.
+
 ## Experience
 
 - **Happencode Yazılım**, long-term intern (2026): 3D product configurator with Unity and Three.js, e-commerce front-ends with Next.js
